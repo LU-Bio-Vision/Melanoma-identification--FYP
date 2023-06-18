@@ -1,7 +1,5 @@
 # Melanoma-identification--FYP
-
-![automated-melanoma-detection](https://github.com/LU-Bio-Vision/Melanoma-identification--FYP/assets/62339931/05b600c3-9e3c-4e2e-9eb4-61564beb39f2)
-
+<img src="[https://github.com/LU-Bio-Vision/web/assets/62339931/0abdae12-a8b4-44b4-b6bf-a32d0754ead1](https://github.com/LU-Bio-Vision/Melanoma-identification--FYP/assets/62339931/05b600c3-9e3c-4e2e-9eb4-61564beb39f2)" width="400" height="300">
 
 Skin cancer is one of the most prevalent cancers in the world. Melanoma is the most fatal form of skin cancer and accounts for the majority of annual fatalities. According to the World Health Organization (WHO), in the US, there will likely be 7,650 melanoma deaths in 2022, with an anticipated 99,780 new cases. To avoid adverse results from the advent, prompt detection and treatment are required. It is primarily recognized and distinguished by expensive and difficult malignant skin development. Therefore, using computer-aided techniques to assist with an initial diagnosis will enable marginalised populations to get the service at a lower cost. Despite the fact that some research has concentrated on using various machine learning algorithms to categorise, most of them lack the generalizability of their solution to be employed in a practical situation.
  
